@@ -14,3 +14,7 @@ function multiplicacao(a,b){
 function divisao(a,b){
     return a/b  
 }
+
+function mark2(){
+    console.log('Ola mundo')
+}
